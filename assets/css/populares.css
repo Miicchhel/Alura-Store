@@ -6,6 +6,7 @@
     display: flex;
     flex-wrap: wrap;
     grid-area: conteudo;
+    justify-content: space-between;
 }
 
 .populares__cabecalho{

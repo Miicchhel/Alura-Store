@@ -1,0 +1,27 @@
+/* CELULAR */
+@media screen and (min-width:0){
+    .cabecalho{
+        background: purple;
+    }
+}
+
+/* TABLET */
+@media screen and (min-width:768px){
+    .cabecalho{
+        background: pink;
+    }
+}
+
+/* DESKTOP ANTIGO */
+@media screen and (min-width:992px){
+    .cabecalho{
+        background: green;
+    }
+}
+
+/* DESKTOP NOVOS E TVs */
+@media screen and (min-width:1200px){
+    .cabecalho{
+        background: red;
+    }
+}
