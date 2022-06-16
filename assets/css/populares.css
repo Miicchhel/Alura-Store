@@ -1,6 +1,6 @@
-.populares{
+/* .populares{
     padding: 3rem 0;
-}
+} */
 
 .populares__conteudo{
     display: flex;
@@ -37,8 +37,8 @@
     "card-imagens"
     "card-corpo";
     grid-template-columns: 100%;
-    grid-template-rows: 173px auto;
-    width: calc(20% - 1rem);
+    /* grid-template-rows: 173px auto; */
+    /* width: calc(20% - 1rem); */
     margin-right:1rem;
 }
 
